@@ -1,0 +1,15 @@
+{
+  "name": "weblog",
+  "version": "1.0.0",
+  "description": "App to share your daily blog",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "yajash jhamb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
